@@ -1,2 +1,2 @@
-Matthew Strong 
+Matthew Strong, Satish Upadhyaya
 Lab 4, Version Control, CSCI 3308, Section 205
